@@ -3,8 +3,8 @@ header h1 {
 	padding: 20px;
 }
 table tr:nth-child(even) {
-	background-color: grey;
+	background-color: white;
 }
 body {
-	background: #02364b;
+	background: linear-gradient(to right, lightgrey, #78ceff, lime);
 }
